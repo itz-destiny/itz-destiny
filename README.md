@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=200&section=header&text=Jonathan%20Destiny&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Jonathan Destiny — Full-Stack & AI Engineer" />
+<img src="./banner.svg" width="100%" alt="Jonathan Destiny — Full-Stack & AI Engineer" />
 
 <a href="https://acehq.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=I+ship+production+AI+products+end-to-end;Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Rust+%C2%B7+Flutter;RAG+%C2%B7+Voice+agents+%C2%B7+Real-time+speech+%26+video;Open+to+remote+roles+and+relocation" alt="Typing intro" />
@@ -177,6 +177,5 @@ I'm open to **full-time remote roles, relocation, and contract work** with teams
 <a href="mailto:jonathandestiny693@gmail.com"><img src="https://img.shields.io/badge/jonathandestiny693@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 <a href="https://acehq.vercel.app"><img src="https://img.shields.io/badge/View%20portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4338ca,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
