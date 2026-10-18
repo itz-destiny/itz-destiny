@@ -2,12 +2,12 @@
 
 <img src="./banner.svg" width="100%" alt="Jonathan Destiny — Full-Stack & AI Engineer" />
 
-<a href="https://acehq.vercel.app">
+<a href="https://destinycodelab.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=I+ship+production+AI+products+end-to-end;Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Rust+%C2%B7+Flutter;RAG+%C2%B7+Voice+agents+%C2%B7+Real-time+speech+%26+video;Open+to+remote+roles+and+relocation" alt="Typing intro" />
 </a>
 
 <p>
-  <a href="https://acehq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-acehq.vercel.app-4338ca?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://destinycodelab.vercel.app"><img src="https://img.shields.io/badge/Portfolio-destinycodelab.vercel.app-4338ca?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:jonathandestiny693@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=for-the-badge" alt="Open to work" />
 </p>
@@ -175,7 +175,7 @@ Location-based attendance tracking for teams and classrooms.
 I'm open to **full-time remote roles, relocation, and contract work** with teams building ambitious products.
 
 <a href="mailto:jonathandestiny693@gmail.com"><img src="https://img.shields.io/badge/jonathandestiny693@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-<a href="https://acehq.vercel.app"><img src="https://img.shields.io/badge/View%20portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://destinycodelab.vercel.app"><img src="https://img.shields.io/badge/View%20portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 
 </div>
